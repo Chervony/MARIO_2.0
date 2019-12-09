@@ -69,7 +69,7 @@ bool StartGame() {
 		float time = clock.getElapsedTime().asMicroseconds();
 		clock.restart();
 
-		time = time / 600;  // çäåñü ðåãóëèðóåì ñêîðîñòü èãðû
+		time = time / 600;  // Ã§Ã¤Ã¥Ã±Ã¼ Ã°Ã¥Ã£Ã³Ã«Ã¨Ã°Ã³Ã¥Ã¬ Ã±ÃªÃ®Ã°Ã®Ã±Ã²Ã¼ Ã¨Ã£Ã°Ã»
 
 		if (time > 20) time = 20;
 
@@ -114,7 +114,7 @@ bool StartGame() {
 		intersects(mario, che);
 
 
-		if (mario.rect.left > 200) offsetX = mario.rect.left - 200;           //ñìåùåíèå
+		if (mario.rect.left > 200) offsetX = mario.rect.left - 200;           //Ã±Ã¬Ã¥Ã¹Ã¥Ã­Ã¨Ã¥
 
 
 
@@ -176,15 +176,18 @@ bool StartGame() {
 		window.display();
 
 		if (WIN == true) {
+			CheckRec(mario);
 			return true;
 		}
 		if (GAME_OVER == true) {
 			restart = true;
 			GAME_OVER = false;
+			CheckRec(mario);
 			return false;
 		}
 		if (mario.health < 0) {
 			restart = true;
+			CheckRec(mario);
 			return true;
 			mario.health = 3;
 		}
