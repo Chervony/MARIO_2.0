@@ -1,0 +1,63 @@
+﻿  Source.cpp
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(36,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(50,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(56,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(72,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(72,14): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(72,14): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(72,14): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(72,14): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(73,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(73,15): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(73,15): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(73,15): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(73,15): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(84,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(84,25): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(84,25): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(84,25): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(84,25): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(92,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(92,26): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(92,26): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(92,26): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(92,26): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,23): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,23): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,23): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,23): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,20): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,20): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,20): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(144,20): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(146,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(158,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(173,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(173,14): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(173,14): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(173,14): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(173,14): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(174,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(174,15): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(174,15): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(174,15): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(174,15): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(183,26): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(183,26): warning C4244:         with
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(183,26): warning C4244:         [
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(183,26): warning C4244:             T=float
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(183,26): warning C4244:         ]
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\PlayerAndEnemy.h(204,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\EnemyInit.h(26,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\EnemyInit.h(42,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\Source.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\Fuctions.h(22,51): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(68,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(69,14): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(87,65): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(89,65): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(91,83): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ЧервоныйЕг\source\repos\Project7\Project7\StartGame.h(197): warning C4715: 'StartGame': not all control paths return a value
+  Project7.vcxproj -> C:\Users\ЧервоныйЕг\source\repos\Project7\x64\Debug\Project7.exe
